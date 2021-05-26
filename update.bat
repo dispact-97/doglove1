@@ -1,3 +1,3 @@
 git add --all
-git commit -m "image update"
+git commit -m "more info update"
 git push -u origin master
