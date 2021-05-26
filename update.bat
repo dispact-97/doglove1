@@ -1,3 +1,3 @@
 git add --all
-dig commit -m "trip catalog"
+git commit -m "footer update"
 git push -u origin master
