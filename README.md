@@ -21,3 +21,6 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+## Netlify Badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57f29fc5-1c39-415d-9ad5-1b23403717d0/deploy-status)](https://app.netlify.com/sites/pedantic-ride-527c36/deploys)
