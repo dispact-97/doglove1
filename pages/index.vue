@@ -77,59 +77,61 @@
             <tr>
               <th>나라</th>
               <th>수도</th>
+              <th>대륙</th>
+              <th>언어</th>
             </tr>
             </thead>
             <tbody>
               <tr>
               <th>대한민국</th>
               <th>서울</th>
+              <th>아시아</th>
+              <th>한글</th>
               </tr>
 
               <tr>
               <th>프랑스</th>
               <th>파리</th>
+              <th>유럽</th>
+              <th>프랑스어</th>
               </tr>
 
               <tr>
               <th>일본</th>
               <th>도쿄</th>
+              <th>아시아</th>
+              <th>일본어</th>
               </tr>
 
               <tr>
               <th>중국</th>
               <th>베이징</th>
+              <th>아시아</th>
+              <th>중국어</th>
               </tr>
 
               <tr>
               <th>미국</th>
               <th>워싱턴 D.C</th>
+              <th>북아메리카</th>
+              <th>영어</th>
               </tr>
 
               <tr>
               <th>영국</th>
               <th>런던</th>
+              <th>유럽</th>
+              <th>영어</th>
               </tr>
 
               <tr>
               <th>러시아</th>
               <th>모스크바</th>
+              <th>유럽</th>
+              <th>러시아어</th>
               </tr>
             </tbody>
           </table>
-
-          <article class="notification  is-info">
-             <table class="table is-hoverable is-fullwidth">
-
-             <thead>
-            <tr>
-              <th>나라</th>
-              <th>수도</th>
-            </tr>
-            </thead>
-            
-             </table>
-          </article> 
-          
 
       </article>
 
