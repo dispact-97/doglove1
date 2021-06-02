@@ -3,7 +3,7 @@
         <section class="hero is-link">
             <div class="hero-body">
                 <p class="title">
-               <i class="fas fa-flag">나라별 수도를 알아보자</i>
+             <i class="fas fa-flag"></i>나라별 수도를 알아보자
                 </p>
             </div>
         </section>
@@ -17,18 +17,31 @@
                             <th>수도 이름</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <template>
 
+                    <tbody>
+                   <template v-for="pos in table_country_name.length">
+                            <tr :key="pos">
+                                 <td>{{ table_country_name[pos - 1].name }}</td>
+                            </tr>
                         </template>
                         </tbody>
 
                 </table>
-                <div class="column">
 
-                    </div>
             </div>
         </section>
     </div>
     
 </template>
+
+<script>
+import countryname from "~/assets/countryname.json";
+export default{
+    data(){
+        return
+        {
+            table_country_name: countryname.name
+        };
+    }
+};
+</script>
