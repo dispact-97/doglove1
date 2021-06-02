@@ -3,7 +3,7 @@
     <nav class="breadcrumb">
   <ul>
 <li><nuxt-link to="/"><i class="fas fa-home"></i>홈으로</nuxt-link></li>
-<li><nuxt-link to="tripname"><i class="fas fa-info"></i>여행이름</li>
+<li><nuxt-link to="/"><i class="fas fa-info"></i>나라별 수도</nuxt-link></li>
   </ul>
 </nav>
     <nuxt/>
