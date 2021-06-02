@@ -1,3 +1,3 @@
 git add --all
-git commit -m "more info update"
+git commit -m "create name vue"
 git push -u origin master
