@@ -35,10 +35,12 @@
         <figure class="image is-128x128">
   <img src="https://wonderfulmind.co.kr/wp-content/uploads/2018/05/travel-alone-600x336.jpg">
 </figure>
-    <p>여유 있는 개인의 여흥거리에 불과했던 관광이 오늘날 산업의 관점에서 받아들여진 것은 18~19세기 유럽에서부터 시작됐다. 
+    <p>
+      여유 있는 개인의 여흥거리에 불과했던 관광이 오늘날 산업의 관점에서 받아들여진 것은 18~19세기 유럽에서부터 시작됐다. 
       그 전에는 돈이 많은 왕족 혹은 귀족만이 관광을 갈 수 있었는데, 대부분 교육적인 관광[1]이었다. 
       산업 혁명 이후 통신과 교통이 비약적으로 발전하고 대규모 투자를 할 수 있는 금융 자본의 등장, 
-      아프리카와 아시아, 아메리카 곳곳으로 뻗어나가던 제국주의의 시류 등과 맞물려 1850년대쯤 되면 유럽은 물론이고 식민지 곳곳에 호텔과 리조트가 넘쳐났다.</p>
+      아프리카와 아시아, 아메리카 곳곳으로 뻗어나가던 제국주의의 시류 등과 맞물려 1850년대쯤 되면 유럽은 물론이고 식민지 곳곳에 호텔과 리조트가 넘쳐났다.
+      </p>
     </div>
     </article>
 </section>
@@ -67,23 +69,69 @@
          </div>
       </article>
 
-
-
     </section>
 
-      
+          <article class="notification  is-info">
+        <table class="table is-hoverable is-fullwidth"> 
+          <thead>
+            <tr>
+              <th>나라</th>
+              <th>수도</th>
+            </tr>
+            </thead>
+            <tbody>
+              <tr>
+              <th>대한민국</th>
+              <th>서울</th>
+              </tr>
 
+              <tr>
+              <th>프랑스</th>
+              <th>파리</th>
+              </tr>
 
+              <tr>
+              <th>일본</th>
+              <th>도쿄</th>
+              </tr>
 
+              <tr>
+              <th>중국</th>
+              <th>베이징</th>
+              </tr>
 
+              <tr>
+              <th>미국</th>
+              <th>워싱턴 D.C</th>
+              </tr>
 
+              <tr>
+              <th>영국</th>
+              <th>런던</th>
+              </tr>
 
+              <tr>
+              <th>러시아</th>
+              <th>모스크바</th>
+              </tr>
+            </tbody>
+          </table>
 
+          <article class="notification  is-info">
+             <table class="table is-hoverable is-fullwidth">
 
+             <thead>
+            <tr>
+              <th>나라</th>
+              <th>수도</th>
+            </tr>
+            </thead>
+            
+             </table>
+          </article> 
+          
 
-
-
-
+      </article>
 
 
 </div>
