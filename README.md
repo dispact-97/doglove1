@@ -29,4 +29,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 >www.mokwon.cf
 >https://app.netlify.com/sites/pedantic-ride-527c36/deploys)
->
+>pedantic-ride-527c36.netlify.app
