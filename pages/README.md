@@ -10,3 +10,5 @@ https://nuxtjs.org/guide/routing
 # WEBSITE NAME
 
 >www.mokwon.cf
+>https://app.netlify.com/sites/pedantic-ride-527c36/deploys)
+>
