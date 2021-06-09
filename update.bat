@@ -1,3 +1,3 @@
 git add --all
-git commit -m "한글 검증 commit"
+git commit -m "read me commit"
 git push -u origin master
