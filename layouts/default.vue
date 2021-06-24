@@ -4,7 +4,7 @@
         <ul>
             <li><nuxt-link to="/"><i class="fas fa-home"></i>홈으로</nuxt-link></li>
             <li><nuxt-link to="/tripname"><i class="fas fa-info"></i>나라별 수도</nuxt-link></li>
-            <li><nuxt-link to="/countryBreeds"><i class="fas fa-suitcase-rolling"></i>나라별 관광지</nuxt-link></li>
+            <li><nuxt-link to="/countryBreeds"><i class="fas fa-suitcase-rolling"></i>국가별 관광지</nuxt-link></li>
         </ul>
 </nav>
     <nuxt/>

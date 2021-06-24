@@ -3,9 +3,9 @@
 		<section class="hero is-warning">
 			<div class="hero-body">
 				<p class="title">
-                    <i class="fas fa-suitcase-rolling"></i> 나라별 관광지</p>
+                    <i class="fas fa-suitcase-rolling"></i> 국가별 관광지</p>
 				<p class="subtile">
-					나라별 관광지를 알아보자
+					국가별 관광지를 알아보자
 				</p>
 			</div>
 		</section>
@@ -15,8 +15,7 @@
 			<table class="table">
 				<thead>
 					<th>번호</th>
-					<th>나라 이름</th>
-					<th>관광지 이름</th>
+					<th>국가 이름</th>
 				</thead>
 				<tbody>
 					<template v-for="pos in tablecountryKeys.length">
@@ -60,11 +59,11 @@
 	import axios from 'axios';
 	export default {
 		async asyncData() {
-			const countryBreeds = await axios.get('https://dog.ceo/api/breeds/list/all');
+			const countryBreeds = await axios.get('https://restcountries.eu/rest/v2/alpha/col');
 			//alert(Object.keys(countryBreeds));
 			return {
-				tableCountrybreeds: countryBreeds.data.message,
-				tablecountryKeys: Object.keys(countryBreeds.data.message),
+				tableCountrybreeds: countryBreeds.data.name,
+				tablecountryKeys: Object.keys(countryBreeds.data.name),
 			};
 		},
 	};
